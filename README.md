@@ -1,1 +1,17 @@
 # CS271_assignment0
+
+
+Most of the topics I find interesting in relation to computers are under the umbrella of Cybersecurity.
+Buffer overflow: Although I have a very rudimentary understanding of the concept. I find it fascinating. https://www.youtube.com/watch?v=1S0aBV-Waeo This video is one that I found to have a decent explanation. Just the idea of overflowing memory to serve a purpose or to bend software to someone’s will is amazing and kinda scary.
+Zero Days: Technically a buffer overflow attack could be part of a Zero day. Not all Zero days are the same. These attacks can be devastating because of the target being unaware of the attack. They can happen at any time and there are people dedicated to finding them for ethical or unethical purposes.
+Cryptography: Encryption has been used since before computers. Now every computer system relies on up to date encryption. Somehow these encryptions are bypassed. Tools exist to crack hashes. Exploits are created to just bypass the encryption. New encryption standards are created to protect users. This is fascinating because there’s encryption in so many areas of a computer. I can encrypt a single file or an entire drive. My web requests are encrypted within the TCP/IP and OSI models. There’s no one size fits all. 
+Networking: I appreciate networking and the people that create/created the protocols that enable the amazing applications we enjoy. For the longest time I felt that the internet was some sort of magic and even after reading about the TCP/IP and OSI model it still feels like some sort of programming wizardry. However, It’s not perfect. Network security is vital and networking is its own umbrella of various topics. Many attacks exploit the vulnerabilities of the internet. There are configurations that should be avoided, insecure networking equipment, man in the middle attacks, etc. Bots that scan the entire internet looking for computers to exploit.
+Reverse Engineering: Tools like Ghidra, GDB, and many others. Reverse engineering is a useful skill. It can be used for malware analysis as well as the basis for the creation of exploits.  
+
+
+5 topics that you find or think will be challenging in relation to computers
+Programming in general. There’s so much I still don’t understand. It’s quite overwhelming. I don’t particularly care to develop games, apps, web pages, etc. I just want to understand how they work. How to protect them. How to write secure code and how a program can be exploited. 
+Bug bounty programs: This could have been added to what I find interesting. But I do think this a challenging topic. There’s more than one path to work in the Cybersec industry. Bug bounty programs are a way into the industry. They are alluring but it seems like this requires a lot of skill and knowledge. 
+Networking: I find it fascinating but also challenging. I've taken an intro to Networks course before and a Cisco class. I’ve hardly scratched the surface. This is even before we talk about cloud computing and how these services interact through networks. 
+Getting used to the command line and various command line tools. This applies to both linux and Windows terminals. I've gotten slightly better with some practice. The terminal can be fun but also frustrating.
+CTF’s: Whether it’s HacktheBox, PicoCTF, OTW, or a competitive tournament like NCL. CTF’s are meant to be challenging. A big part of these CTF’s is reverse engineering. 
